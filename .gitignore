@@ -1,0 +1,9 @@
+##Frontend 
+/frontend/node_modules
+
+##Backend-js
+/backend-js/node_modules
+/backend-js/src/components/credentials/assistant.js
+/backend-js/src/components/credentials/database.js
+
+##Public
